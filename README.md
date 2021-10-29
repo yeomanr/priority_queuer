@@ -17,3 +17,5 @@ I am of the belief that when you are attempting to explain something technical t
 Thinking about it now, I wonder if a litterbox scoop would have been a better example...
 
 ### Priority Queuer
+Should be python-backward compatible.
+Tested with unittest. Tests pass with both python2 and python3.
